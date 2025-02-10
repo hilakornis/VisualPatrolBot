@@ -17,7 +17,7 @@ See the implementation: Functions/VisualPatrol_find_red_ball.p
 
 ![image](https://github.com/user-attachments/assets/ecc0ca86-dca1-4145-aabb-e4ce3eb5ba64)
 
-Future Implementation:
+## Future Implementation:
 
 Enhance the robot’s navigation by using a depth map to determine orientation. See the Jupyter Notebook here: DepthMap_of_a_Ball.ipynb
 
