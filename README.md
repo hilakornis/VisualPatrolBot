@@ -3,9 +3,9 @@ This is a small robot that can find it's way around obstacles and finds the targ
 
 ![image](https://github.com/user-attachments/assets/5d9a7d66-eb20-41c7-90b4-b0651535d3c6)
 
-the deivice will patrol and stop when it finds the input color code is here: 
+The device will patrol and stop when it finds the input color code is here: 
 
-Functions\VisualPatrol - find the ball.py
+``Functions\VisualPatrol_find_red_ball.py``
 
 ![image](https://github.com/user-attachments/assets/ecc0ca86-dca1-4145-aabb-e4ce3eb5ba64)
 
