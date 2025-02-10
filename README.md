@@ -13,7 +13,7 @@ My project aims to program the TurboPi to autonomously navigate a room until it 
 
 The device will scan the environment and stop once it detects the specified color code.
 
-See the implementation: Functions/VisualPatrol_find_red_ball.p
+See the implementation: Functions/VisualPatrol_find_red_ball.py
 
 ![image](https://github.com/user-attachments/assets/ecc0ca86-dca1-4145-aabb-e4ce3eb5ba64)
 
