@@ -8,6 +8,9 @@ My project is to program the robot to so it can navigate around a room and until
 
 ![image](https://github.com/user-attachments/assets/5d9a7d66-eb20-41c7-90b4-b0651535d3c6)
 
+![WhatsApp Video 2025-02-10 at 19](https://github.com/user-attachments/assets/8d940837-5fc2-4426-b374-d9fd4d61e1e0)
+
+
 The device will patrol and stop when it finds the input color code is here: 
 
 ``Functions\VisualPatrol_find_red_ball.py``
