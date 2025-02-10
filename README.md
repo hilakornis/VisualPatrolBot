@@ -1,10 +1,12 @@
 # VisualPatrolBot
 ## About:
-The TurboPI is a very nice metallic robot car kit for a Raspberry Pi (4b) with a bunch of sensors (4 motors, 4 mecanum wheels, camera mounted with two servos, line follower, ultrasonic sensor with multicolor LED lights).
-It comes with a set of software that allows fairly easily get started with getting the robot to do things.
+The TurboPi is a high-quality metallic robot car kit designed for the Raspberry Pi 4B. It features four motors, four mecanum wheels, a camera mounted on two servos, a line follower, and an ultrasonic sensor with multicolor LED lights.
 
-My project is to program the robot to so it can navigate around a room and until it will finds the target (Red Ball). 
---- The project is a work in progress ---
+The kit includes software that makes it relatively easy to get started and control the robot’s movements.
+
+My project aims to program the TurboPi to autonomously navigate a room until it locates a specific target—a red ball.
+
+— This project is a work in progress —
 
 ![image](https://github.com/user-attachments/assets/5d9a7d66-eb20-41c7-90b4-b0651535d3c6)
 
